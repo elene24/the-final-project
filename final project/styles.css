@@ -1,0 +1,207 @@
+.logo{
+    width: 200px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 30px;
+    margin-left: 30px;
+    
+    
+   
+}.characters{
+    width: 1355px;
+    position: absolute;
+    
+    margin-top: 100px;
+  
+   
+}.navigation{
+    
+    font-style:inherit;
+    letter-spacing: 1px;
+    font-family: fantasy;
+    font-size: 25px;
+   
+    
+    
+}.navhome{
+    display: inline-block;
+    margin-left: 500px;
+    letter-spacing: 1px;
+    
+}.navabout{
+    display: inline-block;
+    margin-left: 30px;
+    
+
+}.mcu{
+    position:absolute;
+    margin-top: 100px;
+    margin-left: 50px;
+    color: #C60C00  ;
+    font-size: 150px;
+    width: 100px;
+    letter-spacing: 5px;
+    display: inline-block;
+    font-weight: bold;
+}.heading{
+    position: relative;
+}.marvel{
+    margin-top: 1000px;
+    width: 500px;
+    margin-left: 70px;
+    box-shadow: 5px 5px  5px 5px  gray;
+    display: inline-block;
+    vertical-align: top;
+    
+ }.abtmcu{
+     display: inline-block;
+     vertical-align: top;
+     margin-top: 1055px;
+     font-family: fantasy;
+     margin-left: 210px;
+     position: absolute;
+}.background{
+    width: 100px;
+    height: 50px;
+    background-color: gray;
+    margin-top: 1040px;
+    position: absolute;
+    display: inline-block;
+    margin-left: 200px;
+    text-align:center;
+}.txt1{
+display: inline-block;
+font-size: 25px;
+margin-left: 130px;
+font-weight: bold;
+margin-top: 1130px;
+width: 500px;
+
+}.marvelcharacters{
+    margin-left: 50px;
+    margin-top: 200px;
+    font-size: 30px;
+    font-weight: bold;
+}.wanda{
+    margin-left: 80px;
+    width: 350px;
+    height: 550px;
+    display: inline-block;
+    margin-top: 50px;
+    box-shadow: 5px 5px  5px 5px  gray;
+}.char{
+    margin-left: 52px;
+    font-size: 20px;
+    font-family: fantasy;
+    position: absolute;
+    margin-top: 10px;
+
+
+}.charback{
+    width: 110px;
+    height: 50px;
+    background-color: gray;
+    margin-left: 45px;
+    
+    
+}.upcoming{
+    margin-left: 70px;
+    margin-top: 200px;
+    font-size: 30px;
+    font-weight: bold;
+}.thormovie{
+    margin-left: 50px;
+    width: 550px;
+    margin-top: 50px;
+    box-shadow: 5px 5px  5px 5px  gray;
+}.marvels{
+    width: 550px;
+    height: 309px;
+    margin-left: 100px;
+    box-shadow: 5px 5px  5px 5px  gray;
+}.thortext{
+    margin-left: 70px;
+    display: inline-block;
+    font-size: 23px;
+    font-weight: bold;
+
+}.marvelstext{
+   display: inline-block;
+   margin-left: 400px;
+   font-size: 23px;
+   font-weight: bold;
+   width: 500px;
+}.release{
+    margin-left: 70px;
+    color: gray;
+    display: inline-block;
+}.marvelsrelease{
+    margin-left: 450px;
+    display: inline-block;
+    color: gray;
+}.doctor{
+    margin-left: 50px;
+    width: 600px;
+    margin-top: 50px;
+    box-shadow: 5px 5px  5px 5px  gray;
+}.doctortext{
+    margin-left: 70px;
+    font-size: 23px;
+    font-weight: bold;
+}.doctorrelease{
+    margin-left: 70px;
+    color: gray;
+    margin-top: 40px;
+}.scarletandyelena{
+    width: 1355px;
+    margin-top: 30px;
+    position: absolute;
+    
+    
+}body{
+    background-color: rgb(233, 231, 227);
+}.trailer{
+    margin-left: 350px;
+    font-size: 50px;
+    text-decoration: none;
+    position: absolute;
+    margin-top: 450px;
+    color: rgb(243, 99, 42);
+    font-weight: bold;
+    
+}.newmovie{
+    display: inline-block;
+    position: absolute;
+    font-family: fantasy;
+    margin-top: 150px;
+    width:300px;
+    font-size: 100px;
+    margin-left: 50px;
+    color: black
+}.black{
+    margin-top: 1000px;
+    width: 1355px;
+    position: absolute;
+    height: 500px;
+}.more{
+    color: white;
+    position: absolute;
+    margin-top: 1200px;
+    font-size: 40px;
+    font-family: fantasy;
+    margin-left: 350px;
+}span{
+    color: red;
+}.case{
+    width: 110px;
+    height: 50px;
+    background-color: gray;
+    position: absolute;
+    margin-top: 1300px;
+    margin-left: 600px;
+}.visit{
+    position: absolute;
+    margin-top: 1315px;
+    margin-left: 627px;
+    font-size: 20px;
+}
